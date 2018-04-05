@@ -1,0 +1,14 @@
+{
+    "name": "sunyuw/one-payment",
+    "description": "IOC container for all payment sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunyuw",
+            "email": "leentingOne@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
